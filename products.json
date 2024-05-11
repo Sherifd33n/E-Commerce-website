@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "images/products/shoe1.png",
+    "name": "ultraboost 23 pink sneakers",
+    "priceCents": 912
+  },
+  {
+    "id": 2,
+    "image": "images/products/shoe2.png",
+    "name": "lunar 20 red sneakers",
+    "priceCents": 210
+  },
+  {
+    "id": 3,
+    "image": "images/products/shoe3.png",
+    "name": "supanova 22 black sneakers",
+    "priceCents": 650
+  },
+  {
+    "id": 4,
+    "image": "images/products/shoe4.png",
+    "name": "literacer gray sneakers",
+    "priceCents": 200
+  },
+  {
+    "id": 5,
+    "image": "images/products/shoe5.png",
+    "name": "kaptir stripes sneakers",
+    "priceCents": 770
+  },
+  {
+    "id": 6,
+    "image": "images/products/shoe6.png",
+    "name": "adapt 3.0 stripes sneakers",
+    "priceCents": 600
+  },
+  {
+    "id": 7,
+    "image": "images/products/shoe7.png",
+    "name": "4w4fw 3.0 black sneakers",
+    "priceCents": 510
+  },
+  {
+    "id": 8,
+    "image": "images/products/shoe8.png",
+    "name": "nmd_r1 split grey sneakers",
+    "priceCents": 230
+  },
+  {
+    "id": 9,
+    "image": "images/products/shoe9.png",
+    "name": "4w4fw 3.0 white sneakers",
+    "priceCents": 220
+  },
+  {
+    "id": 10,
+    "image": "images/products/shoe10.png",
+    "name": "split aqua orange sneakers",
+    "priceCents": 212
+  },
+  {
+    "id": 11,
+    "image": "images/products/shoe11.png",
+    "name": "4w4fw 3.0 red sneakers",
+    "priceCents": 320
+  },
+  {
+    "id": 12,
+    "image": "images/products/shoe12.png",
+    "name": "elegant split purple sneakers",
+    "priceCents": 400
+  }
+]
